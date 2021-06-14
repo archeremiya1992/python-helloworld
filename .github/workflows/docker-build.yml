@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: archeremiya1992/python-helloworld:latest
+          tags: archeremiya/python-helloworld:latest
